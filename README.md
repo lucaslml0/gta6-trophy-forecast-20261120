@@ -1,5 +1,9 @@
 # GTA VI Trophy Rarity Forecast
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/lucaslml0/gta6-trophy-forecast-20261120/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/lucaslml0/gta6-trophy-forecast-20261120/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Forecasts each Grand Theft Auto VI PlayStation 5 trophy's earn rate on
 [Exophase](https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/)
 at a case's target time — entered in make.fun's
